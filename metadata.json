@@ -1,0 +1,6 @@
+{
+  "name": "KothaHub",
+  "description": "Fast and responsive Android app for KothaHub with smooth browsing, offline detection, and full device support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
